@@ -35,7 +35,7 @@ input,button{
 
 #paragraph
 {
-    width: 30rem;
+    width: fit-content;
     height: fit-content;
    display: flex;
  
