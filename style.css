@@ -1,0 +1,47 @@
+.box
+{
+    border: 1px solid black;
+    width:  fit-content;
+    height: fit-content;
+    border-color: aliceblue;
+}
+body,#small-box
+{
+    display: flex;
+    justify-content: center;
+    gap: 4rem;
+}
+
+
+body
+{
+    margin-top: 4rem;
+    background-image: linear-gradient(to right, #434343 0%, black 100%);
+}
+
+.heading 
+{
+    display: flex;
+    justify-content: center;
+}
+
+
+input,button{
+    width: 20rem;
+    height: 3rem;
+    border-style: none;
+}
+
+
+#paragraph
+{
+    width: 30rem;
+    height: fit-content;
+   display: flex;
+ 
+}
+#display
+{
+    margin-left: 10rem;
+}
+
